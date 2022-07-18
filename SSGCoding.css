@@ -1,34 +1,34 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(SSGbase.png);
+    background-image: url(blob/main/SSGbase.png);
 }
 
 .ds4.white.disconnected {
-    background: url(SSGdisconnected.png);
+    background: url(blob/main/SSGdisconnected.png);
 }
 
 .ds4.white .trigger {
-    background-image: url(SSGtriggers.png);
+    background-image: url(blob/main/SSGtriggers.png);
 }
 
 .ds4.white .bumper {
-    background-image: url(SSGbumper.png);
+    background-image: url(blob/main/SSGbumper.png);
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(SSGstart.png);
+    background-image: url(blob/main/SSGstart.png);
 }
 
 .ds4.white .button {
-    background-image: url(SSGface.png);
+    background-image: url(blob/main/SSGface.png);
 }
 
 .ds4.white .stick {
-    background-image: url(SSGsticks.png);
+    background-image: url(blob/main/SSGsticks.png);
 }
 
 .ds4.white .face {
-    background-image: url(SSGdpad.png);
+    background-image: url(blob/main/SSGdpad.png);
 }
 
 /*END PS4 White Controller Styling*/
